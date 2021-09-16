@@ -10,7 +10,7 @@ from discord.utils import get as get
 
 #variable initialization and declaration
 client = discord.Client()
-token = "ODIyMDA4MDM2MjI1ODQzMjAw.YFMApA.e9kh5nuUtFR07X4Bn7C-bKwmuWA"
+token = ". . ."
 command = "$"
 
 tiers = ["1E", "1D", "1C", "1B", "1A", "2D", "2C", "2B", "2A", "3D", "3C", "3B", "3A",
