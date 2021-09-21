@@ -11,7 +11,7 @@ from discord.utils import get as get
 
 # variable initialization and declaration
 client = discord.Client()
-token = "ODIyMDA4MDM2MjI1ODQzMjAw.YFMApA.S5Bgze9CuSK7e2w-gpJOLzmXdaQ"
+token = "ODIyMDA4MDM2MjI1ODQzMjAw.YFMApA.50ax3hR5FWdKIZ0oj1y4HizQ5mY"
 voice = None
 command = "$"
 tiers = ["1E", "1D", "1C", "1B", "1A", "2D", "2C", "2B", "2A", "3D", "3C", "3B", "3A",
